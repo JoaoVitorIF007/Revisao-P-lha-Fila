@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Q5 {
+public class EX5 {
     public static void main(String[] args) throws Exception {
         Random rand = new Random();
         Fila fila = new Fila();

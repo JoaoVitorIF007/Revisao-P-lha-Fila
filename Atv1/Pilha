@@ -40,5 +40,7 @@ public class Pilha {
         if (this.posicaoPilha < this.pilha.length - 1) {
             this.pilha[++posicaoPilha] = valor;
         }
+        
     }
+    
 }

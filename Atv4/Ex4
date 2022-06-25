@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Q4 {
+public class EX4 {
     public static void main(String[] args) throws Exception {
         Fila f1 = new Fila();
         Fila f2 = new Fila();
@@ -13,6 +13,6 @@ public class Q4 {
 
         /*for(int i = 0; i<f2.getQtdeElementos();i++){
             System.out.println();
-        }*/
+        }
     }
 }

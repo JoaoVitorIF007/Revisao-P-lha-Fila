@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q1 {
+public class EX1 {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
         Pilha p = new Pilha();

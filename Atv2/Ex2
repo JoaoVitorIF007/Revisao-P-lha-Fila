@@ -1,4 +1,4 @@
-public class Q2a {
+public class EX2 {
     public static void main(String[] args) {
         Fila f1 = new Fila();
         Fila f2 = new Fila();

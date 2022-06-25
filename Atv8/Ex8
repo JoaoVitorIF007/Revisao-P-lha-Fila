@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Q8 {
+public class EX8 {
     public static void main(String[] args) throws Exception {
         Pilha P = new Pilha();
         Pilha N = new Pilha();
